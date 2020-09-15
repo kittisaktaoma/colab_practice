@@ -1,0 +1,7 @@
+Taxanes
+Anthracyclines
+Vinorelbine
+Capecitabine
+Gemcitabine
+Ixabepilone
+Eribulin
